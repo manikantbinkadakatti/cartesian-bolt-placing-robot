@@ -1,4 +1,4 @@
-# Smart Cartesian Bot for Bolt Placing 🤖🔩
+# Smart Cartesian Bot for Bolt Placing 
 
 ## Overview
 This project presents a **Smart Cartesian Robot** designed to automate the bolt placement process in industrial environments. Built using a Raspberry Pi and controlled along Y and Z axes, the robot picks and places bolts using image processing with **YOLOv8 + OpenCV**. It ensures precise bolt placement and real-time validation, helping eliminate human error and speed up production.
